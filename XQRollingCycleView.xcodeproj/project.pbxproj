@@ -15,6 +15,16 @@
 		B60AB1BE1D77B2860008230D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1BC1D77B2860008230D /* LaunchScreen.storyboard */; };
 		B60AB1C91D77B2860008230D /* XQRollingCycleViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B60AB1C81D77B2860008230D /* XQRollingCycleViewTests.m */; };
 		B60AB1D41D77B2870008230D /* XQRollingCycleViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B60AB1D31D77B2870008230D /* XQRollingCycleViewUITests.m */; };
+		B60AB1E41D77B2CB0008230D /* XQRollingCycleView.m in Sources */ = {isa = PBXBuildFile; fileRef = B60AB1E31D77B2CB0008230D /* XQRollingCycleView.m */; };
+		B60AB1EF1D77BA4B0008230D /* a1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1E61D77BA4B0008230D /* a1.jpg */; };
+		B60AB1F01D77BA4B0008230D /* a2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1E71D77BA4B0008230D /* a2.jpg */; };
+		B60AB1F11D77BA4B0008230D /* a3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1E81D77BA4B0008230D /* a3.jpg */; };
+		B60AB1F21D77BA4B0008230D /* a4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1E91D77BA4B0008230D /* a4.jpg */; };
+		B60AB1F31D77BA4B0008230D /* a5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1EA1D77BA4B0008230D /* a5.jpg */; };
+		B60AB1F41D77BA4B0008230D /* a6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1EB1D77BA4B0008230D /* a6.jpg */; };
+		B60AB1F51D77BA4B0008230D /* a7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1EC1D77BA4B0008230D /* a7.jpg */; };
+		B60AB1F61D77BA4B0008230D /* a8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1ED1D77BA4B0008230D /* a8.jpg */; };
+		B60AB1F71D77BA4B0008230D /* a9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B60AB1EE1D77BA4B0008230D /* a9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,17 @@
 		B60AB1CF1D77B2860008230D /* XQRollingCycleViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XQRollingCycleViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B60AB1D31D77B2870008230D /* XQRollingCycleViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XQRollingCycleViewUITests.m; sourceTree = "<group>"; };
 		B60AB1D51D77B2870008230D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B60AB1E21D77B2CB0008230D /* XQRollingCycleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XQRollingCycleView.h; sourceTree = "<group>"; };
+		B60AB1E31D77B2CB0008230D /* XQRollingCycleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XQRollingCycleView.m; sourceTree = "<group>"; };
+		B60AB1E61D77BA4B0008230D /* a1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a1.jpg; sourceTree = "<group>"; };
+		B60AB1E71D77BA4B0008230D /* a2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a2.jpg; sourceTree = "<group>"; };
+		B60AB1E81D77BA4B0008230D /* a3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a3.jpg; sourceTree = "<group>"; };
+		B60AB1E91D77BA4B0008230D /* a4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a4.jpg; sourceTree = "<group>"; };
+		B60AB1EA1D77BA4B0008230D /* a5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a5.jpg; sourceTree = "<group>"; };
+		B60AB1EB1D77BA4B0008230D /* a6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a6.jpg; sourceTree = "<group>"; };
+		B60AB1EC1D77BA4B0008230D /* a7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a7.jpg; sourceTree = "<group>"; };
+		B60AB1ED1D77BA4B0008230D /* a8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a8.jpg; sourceTree = "<group>"; };
+		B60AB1EE1D77BA4B0008230D /* a9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +126,8 @@
 				B60AB1B21D77B2860008230D /* AppDelegate.m */,
 				B60AB1B41D77B2860008230D /* ViewController.h */,
 				B60AB1B51D77B2860008230D /* ViewController.m */,
+				B60AB1E51D77BA4B0008230D /* Images */,
+				B60AB1E11D77B29F0008230D /* XQRollingCycleView */,
 				B60AB1B71D77B2860008230D /* Main.storyboard */,
 				B60AB1BA1D77B2860008230D /* Assets.xcassets */,
 				B60AB1BC1D77B2860008230D /* LaunchScreen.storyboard */,
@@ -138,6 +161,31 @@
 				B60AB1D51D77B2870008230D /* Info.plist */,
 			);
 			path = XQRollingCycleViewUITests;
+			sourceTree = "<group>";
+		};
+		B60AB1E11D77B29F0008230D /* XQRollingCycleView */ = {
+			isa = PBXGroup;
+			children = (
+				B60AB1E21D77B2CB0008230D /* XQRollingCycleView.h */,
+				B60AB1E31D77B2CB0008230D /* XQRollingCycleView.m */,
+			);
+			name = XQRollingCycleView;
+			sourceTree = "<group>";
+		};
+		B60AB1E51D77BA4B0008230D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				B60AB1E61D77BA4B0008230D /* a1.jpg */,
+				B60AB1E71D77BA4B0008230D /* a2.jpg */,
+				B60AB1E81D77BA4B0008230D /* a3.jpg */,
+				B60AB1E91D77BA4B0008230D /* a4.jpg */,
+				B60AB1EA1D77BA4B0008230D /* a5.jpg */,
+				B60AB1EB1D77BA4B0008230D /* a6.jpg */,
+				B60AB1EC1D77BA4B0008230D /* a7.jpg */,
+				B60AB1ED1D77BA4B0008230D /* a8.jpg */,
+				B60AB1EE1D77BA4B0008230D /* a9.jpg */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +291,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B60AB1F01D77BA4B0008230D /* a2.jpg in Resources */,
+				B60AB1F41D77BA4B0008230D /* a6.jpg in Resources */,
+				B60AB1F11D77BA4B0008230D /* a3.jpg in Resources */,
 				B60AB1BE1D77B2860008230D /* LaunchScreen.storyboard in Resources */,
+				B60AB1F31D77BA4B0008230D /* a5.jpg in Resources */,
+				B60AB1F51D77BA4B0008230D /* a7.jpg in Resources */,
 				B60AB1BB1D77B2860008230D /* Assets.xcassets in Resources */,
+				B60AB1F71D77BA4B0008230D /* a9.jpg in Resources */,
+				B60AB1F21D77BA4B0008230D /* a4.jpg in Resources */,
+				B60AB1F61D77BA4B0008230D /* a8.jpg in Resources */,
 				B60AB1B91D77B2860008230D /* Main.storyboard in Resources */,
+				B60AB1EF1D77BA4B0008230D /* a1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +329,7 @@
 			files = (
 				B60AB1B61D77B2860008230D /* ViewController.m in Sources */,
 				B60AB1B31D77B2860008230D /* AppDelegate.m in Sources */,
+				B60AB1E41D77B2CB0008230D /* XQRollingCycleView.m in Sources */,
 				B60AB1B01D77B2860008230D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
